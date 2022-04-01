@@ -1,0 +1,13 @@
+DEPLOY HEROKU CLI
+
+1 - Criar repositório vazio apenas com o README.md no git
+2 - Clonar o repositório para o local com "git clone <repo>"
+3 - Acessa a pasta do clone pelo cmd "cd path"
+4 - Cria app, Procfile, requirements.txt e  setup.sh
+5 - fazer login no CLI heroku com "heroku login"
+6 - Cria o repositorio de deploy no heroku com "heroku create <name>"
+7 - Adiciona os arquivos para commit no repositorio heroku com "git add ."
+8 - Faz o commit no repositorio heroku "git commit -m <text>"
+9 - Faz o push pro repositorio heroku com "git push heroku HEAD:master"
+
+link: https://www.youtube.com/watch?v=mQ7rGcE766k&list=PLb84xdKwLFkGrdLQsSZr_jGam1A0dxOmf&index=12&t=1105s
